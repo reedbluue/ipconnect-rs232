@@ -1,46 +1,41 @@
-# Getting Started with Create React App
+# ipConnect - RS232
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img src="./img/banner.jpg" alt="Banner ipconnect - RS232">
 
-## Available Scripts
+> Uma aplicação desenvolvida em JS para leitura e escrita de dados em dispositivos com comunicação Serial RS-232.
 
-In the project directory, you can run:
+## Sobre o projeto
 
-### `npm start`
+O ipConnect é um projeto próprio desenvolvido para realizar pequenos testes em dispositivos RS232. Atualmente está sendo desenvolvido para funcionar com a balança de precisão da Marte [AD5000](https://marte.com.br/produtos/balanca-de-precisao-ad5000/) e futuramente pode receber novas atualizações para uma vasta gama de dispositivos.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Recursos
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Em construção...
 
-### `npm test`
+### Ajustes e melhorias
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Em construção...
 
-### `npm run build`
+## 💻 Pré-requisitos
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Em construção...
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🚀 Instalando o ipConnect - RS232
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Em construção...
 
-### `npm run eject`
+## ☕ Usando o ipConnect - RS232
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Em construção...
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🤝 Reconhecimentos
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+* [José Marcelo PIT](https://github.com/jmarcelopit), por todo apoio e mentoria no projeto.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## 🙋🏾‍♂️ Autor
 
-## Learn More
+* [Igor E. Oliveira](https://github.com/reedbluue)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 📝 Licença
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Esse projeto está sob licença. Veja o arquivo [LICENÇA](./LICENSE) para mais detalhes.

@@ -1,0 +1,38 @@
+.menu-item {
+  display: flex;
+  background-color: hsla(0, 0%, 89%, 1);
+  border-radius: 8px;
+  padding: .5rem .5rem .5rem 1.4rem;
+  align-items: center;
+  justify-content: left;
+  width: 100%;
+  gap: .9rem;
+  cursor: pointer;
+  text-decoration: none;
+
+  &__icon {
+    width: 4rem;
+    height: 4rem;
+    &--home {
+      background: url('../../../../public/assets/img/icon_home.svg') center center no-repeat;
+
+    }
+    &--monitor {
+      background: url('../../../../public/assets/img/icon_monitor.svg') center center no-repeat;
+    }
+    &--config {
+      background: url('../../../../public/assets/img/icon_config.svg') center center no-repeat;
+    }
+    &--github {
+      background: url('../../../../public/assets/img/icon_github.svg') center center no-repeat;
+    }
+  }
+
+  &__text {
+    color: hsla(240, 27%, 18%, 1);
+  }
+
+  &:hover {
+    background-color: hsla(0, 0%, 80%, 1);
+  }
+}

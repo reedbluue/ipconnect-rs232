@@ -1,0 +1,32 @@
+.inicio {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  max-width: 100rem;
+
+  &__title {
+    padding: 1rem 0;
+  }
+
+  &__subtitle {
+    margin-top: 4rem;
+    padding: 1rem 0;
+  }
+
+  &__tutorial {
+    height: 100%;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(400px, auto));
+    gap: 1rem;
+
+    & article {
+      padding: 1rem;
+      border-radius: 10px;
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-evenly;
+    }
+  }
+
+}
