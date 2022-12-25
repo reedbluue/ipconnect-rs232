@@ -1,5 +1,4 @@
 import './FormConfig.scss';
-import { ReactElement } from 'react';
 import { Button } from '../button/Button';
 import { TextInput } from './inputs/TextInput';
 
