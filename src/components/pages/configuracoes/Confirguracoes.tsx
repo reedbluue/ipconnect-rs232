@@ -1,4 +1,3 @@
-import { Button } from '../../button/Button';
 import { FormConfig } from '../../form/FormConfig';
 import './Configuracoes.scss';
 

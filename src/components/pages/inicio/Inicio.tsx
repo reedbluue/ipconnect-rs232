@@ -14,39 +14,45 @@ export const Inicio = () => {
       </p>
       <h2 className="inicio__subtitle">Como utilizar:</h2>
       <section className="inicio__tutorial">
-        <article>
-          <h3>Monitor</h3>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus
-            ut interdum velit, sit amet sollicitudin ante. In dictum purus
-            condimentum ex sagittis ullamcorper. Curabitur aliquet lacinia enim
-            id mattis. Proin augue nulla, molestie a tellus ut, facilisis
-            pharetra urna.
-          </p>
+        <article className="tutorial-field">
+          <img src='assets/img/tutorial/1.jpg' alt='Tutorial 1'/>
+          <div>
+            <h3>Monitor</h3>
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus
+              ut interdum velit, sit amet sollicitudin ante. In dictum purus
+              condimentum ex sagittis ullamcorper. Curabitur aliquet lacinia
+              enim id mattis. Proin augue nulla, molestie a tellus ut, facilisis
+              pharetra urna.
+            </p>
+          </div>
         </article>
-        <article></article>
-        <article></article>
-        <article>
-          <h3>Monitor</h3>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus
-            ut interdum velit, sit amet sollicitudin ante. In dictum purus
-            condimentum ex sagittis ullamcorper. Curabitur aliquet lacinia enim
-            id mattis. Proin augue nulla, molestie a tellus ut, facilisis
-            pharetra urna.
-          </p>
+        <article className="tutorial-field">
+          <img src='assets/img/tutorial/2.jpg' alt='Tutorial 2'/>
+          <div>
+            <h3>Monitor</h3>
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus
+              ut interdum velit, sit amet sollicitudin ante. In dictum purus
+              condimentum ex sagittis ullamcorper. Curabitur aliquet lacinia
+              enim id mattis. Proin augue nulla, molestie a tellus ut, facilisis
+              pharetra urna.
+            </p>
+          </div>
         </article>
-        <article>
-          <h3>Monitor</h3>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus
-            ut interdum velit, sit amet sollicitudin ante. In dictum purus
-            condimentum ex sagittis ullamcorper. Curabitur aliquet lacinia enim
-            id mattis. Proin augue nulla, molestie a tellus ut, facilisis
-            pharetra urna.
-          </p>
+        <article className="tutorial-field">
+          <img src='assets/img/tutorial/3.jpg' alt='Tutorial 3'/>
+          <div>
+            <h3>Monitor</h3>
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus
+              ut interdum velit, sit amet sollicitudin ante. In dictum purus
+              condimentum ex sagittis ullamcorper. Curabitur aliquet lacinia
+              enim id mattis. Proin augue nulla, molestie a tellus ut, facilisis
+              pharetra urna.
+            </p>
+          </div>
         </article>
-        <article></article>
       </section>
     </main>
   );
