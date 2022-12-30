@@ -14,7 +14,7 @@ export const Menu = () => {
       <footer className='menu__footer'>
         <section className='github'>
           <a className='github__icon' href='https://github.com/reedbluue/' target='_blank'></a>
-          <p>by Igor Oliveira</p>
+          <p>by SENAI CIMATEC</p>
         </section>
       </footer>
     </nav>

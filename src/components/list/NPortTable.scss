@@ -1,0 +1,11 @@
+.nport-table {
+  margin-top: 2rem;
+  width: 100%;
+  text-align: center;
+
+  &, & td, & th {
+    border: solid 1px #000;
+    border-collapse: collapse;
+  }
+  
+}

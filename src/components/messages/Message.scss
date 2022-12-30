@@ -1,0 +1,29 @@
+.error-message {
+  font-weight: 600;
+  background-color: #b72b2b;
+  height: 5rem;
+  border-radius: 10px;
+  width: 100%;
+  font-size: 1.8rem;
+  padding: 0 2rem;
+  margin: 1rem 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  user-select: none;
+}
+
+.sucess-message {
+  font-weight: 600;
+  background-color: #2bb75a;
+  height: 5rem;
+  border-radius: 10px;
+  width: 100%;
+  font-size: 1.8rem;
+  padding: 0 2rem;
+  margin: 1rem 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  user-select: none;
+}
